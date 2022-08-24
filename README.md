@@ -1,3 +1,2 @@
 # Calculator-vanilla-javascript
-
-<img src"https://i.hizliresim.com/a37vxoa.jpg" />
+<img alt="Coding" width="1000" height="350" src="https://i.hizliresim.com/a37vxoa.jpg" >
